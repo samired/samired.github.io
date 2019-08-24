@@ -1,0 +1,10 @@
+#+HTML_HEAD: <link rel="stylesheet" type="text/css" href="../scripts/org.css"/>
+
+This is my journey with J language where I'll try to learn it while studying 6-sigma course, I'll apply the statistical concepts along with any equation in J
+
+** Lean Six-Sigma main framework (DMAIC)
+- Define
+- Measure
+- Analyze
+- Improve
+- Control  
