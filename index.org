@@ -1,0 +1,38 @@
+#+TITLE: Samir's Space
+#+SUBTITLE: where I write my thoughts
+
+#+HTML_HEAD: <link id="pagestyle" rel="stylesheet" type="text/css" href="css/worg_style_worg.css"/>
+
+#+OPTIONS: toc:t num:0 H:4 ^:nil pri:t
+
+#+MACRO: kbd @@html:<kbd>$1</kbd>@@
+
+#+BEGIN_EXPORT html
+<script>
+function swapStyle(css){
+    document.getElementById('pagestyle').setAttribute('href', css);
+}
+</script>
+<div style="margin: auto auto;">
+  <button onclick="swapStyle('css/worg_style_worg.css')">light</button>
+  <button onclick="swapStyle('css/worg-zenburn.css')">dark</button>
+  <button onclick="location.href = 'https://samired.github.io/';">home</button>
+  <button onclick="location.href = 'https://www.linkedin.com/in/samiryusuf';">linkedin</button>
+  <button onclick="location.href = 'https://www.github.com/samired';">github</button>
+  <button onclick="location.href = 'https://www.tradingview.com/u/smir';">trading view</button>
+  <button onclick="location.href = 'https://loadaverage.org/samir';">loadaverage</button>
+  <button onclick="location.href = 'https://twitter.com/Samir0x';">twitter</button>
+
+</div>
+#+END_EXPORT
+
+** Projects:
+- Pore Pressure Estimation in *Python* and *Clojure*
+- Semi-Algorithmic Trading with *J*
+
+** Articles:
+- [[./articles/jwj.html][Journey with J (en)]]
+- [[./articles/quran_numbers.html][Numbers in Quran (ar)]]
+ 
+** Currently Reading:
+- Fardaqan (فردقان) - Yousuf Zidan

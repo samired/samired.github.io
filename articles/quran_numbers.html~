@@ -3,10 +3,10 @@
 "http://www.w3.org/TR/xhtml1/DTD/xhtml1-strict.dtd">
 <html xmlns="http://www.w3.org/1999/xhtml" lang="en" xml:lang="en">
 <head>
-<!-- 2020-02-08 Sat 22:48 -->
+<!-- 2020-02-08 Sat 22:45 -->
 <meta http-equiv="Content-Type" content="text/html;charset=utf-8" />
 <meta name="viewport" content="width=device-width, initial-scale=1" />
-<title>Journey with J</title>
+<title>أرقام و أعداد في القرآن</title>
 <meta name="generator" content="Org mode" />
 <style type="text/css">
  <!--/*--><![CDATA[/*><!--*/
@@ -229,47 +229,46 @@ for the JavaScript code in this tag.
 </head>
 <body>
 <div id="content">
-<h1 class="title">Journey with J
-<br />
-<span class="subtitle">Documenting my journey with J language where I'll try to learn it while studying 6-sigma course, I'll apply the statistical concepts along with any equation in J</span>
-</h1>
-<div id="table-of-contents">
-<h2>Table of Contents</h2>
-<div id="text-table-of-contents">
-<ul>
-<li><a href="#org85e35e8">Lean Six-Sigma main framework (DMAIC)</a></li>
-</ul>
-</div>
-</div>
+<h1 class="title">أرقام و أعداد في القرآن</h1>
+<dir="rtl" lang="ar">
+<html dir="rtl" lang="ar">
+
 <script>
 function swapStyle(css){
     document.getElementById('pagestyle').setAttribute('href', css);
 }
 </script>
-<div style="margin: auto auto;">
+  <div style="margin: auto auto;" dir="rtl" lang="ar">
+  <button onclick="location.href = 'https://samired.github.io/';">home</button>
   <button onclick="swapStyle('../css/worg_style_worg.css')">light</button>
   <button onclick="swapStyle('../css/worg-zenburn.css')">dark</button>
-  <button onclick="location.href = 'https://samired.github.io/';">home</button>
-
-
+ 
 </div>
 
-
-<div id="outline-container-org85e35e8" class="outline-2">
-<h2 id="org85e35e8">Lean Six-Sigma main framework (DMAIC)</h2>
-<div class="outline-text-2" id="text-org85e35e8">
 <ul class="org-ul">
-<li>Define</li>
-<li>Measure</li>
-<li>Analyze</li>
-<li>Improve</li>
-<li>Control</li>
+<li>ورد إسم الله السميع 46 مرة في القرآن بالإضافة إلى مرة واحدة لم ترد كإسم من أسماء الله</li>
+
+<li>و هذا الموضع الوحيد كان في:</li>
 </ul>
-</div>
-</div>
+<p>
+﴿۞ مَثَلُ ٱلۡفَرِیقَیۡنِ كَٱلۡأَعۡمَىٰ وَٱلۡأَصَمِّ وَٱلۡبَصِیرِ وَٱلسَّمِیعِۚ هَلۡ یَسۡتَوِیَانِ مَثَلًاۚ أَفَلَا تَذَكَّرُونَ﴾ [هود ٢٤]
+</p>
+
+<ul class="org-ul">
+<li>ورد الإسم معرفا في 19 موضع و غير معرف في 25 موضع و مؤكداً بحرف اللام في موضعين</li>
+
+<li>ورد مقروناً به إسم الله "العليم" في 32 موضع</li>
+<li>و مقروناً به إسم الله "البصير" في 11 موضع</li>
+<li>و مضاف إلى لفظ "الدعاء" مرتين</li>
+<li>و مقروناً به إسم الله "قريب" مرة واحدة</li>
+</ul>
+
+<p>
+<a href="https://furqan.co/">https://furqan.co/</a>
+</p>
 </div>
 <div id="postamble" class="status">
-<p class="date">Created: 2020-02-08 Sat 22:48</p>
+<p class="date">Created: 2020-02-08 Sat 22:45</p>
 <p class="validation"><a href="http://validator.w3.org/check?uri=referer">Validate</a></p>
 </div>
 </body>

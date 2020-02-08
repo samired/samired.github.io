@@ -1,0 +1,37 @@
+#+TITLE: أرقام و أعداد في القرآن
+#+HTML: <dir="rtl" lang="ar">
+#+HTML_HEAD: <link id="pagestyle" rel="stylesheet" type="text/css" href="../css/worg_style_worg.css"/>
+
+#+OPTIONS: toc:t num:0 H:4 ^:nil pri:t
+
+#+MACRO: kbd @@html:<kbd>$1</kbd>@@
+
+#+BEGIN_EXPORT html
+<html dir="rtl" lang="ar">
+
+<script>
+function swapStyle(css){
+    document.getElementById('pagestyle').setAttribute('href', css);
+}
+</script>
+  <div style="margin: auto auto;" dir="rtl" lang="ar">
+  <button onclick="location.href = 'https://samired.github.io/';">home</button>
+  <button onclick="swapStyle('../css/worg_style_worg.css')">light</button>
+  <button onclick="swapStyle('../css/worg-zenburn.css')">dark</button>
+ 
+</div>
+#+END_EXPORT
+
+- ورد إسم الله السميع 46 مرة في القرآن بالإضافة إلى مرة واحدة لم ترد كإسم من أسماء الله
+
+- و هذا الموضع الوحيد كان في:
+﴿۞ مَثَلُ ٱلۡفَرِیقَیۡنِ كَٱلۡأَعۡمَىٰ وَٱلۡأَصَمِّ وَٱلۡبَصِیرِ وَٱلسَّمِیعِۚ هَلۡ یَسۡتَوِیَانِ مَثَلًاۚ أَفَلَا تَذَكَّرُونَ﴾ [هود ٢٤]
+
+- ورد الإسم معرفا في 19 موضع و غير معرف في 25 موضع و مؤكداً بحرف اللام في موضعين
+
+- ورد مقروناً به إسم الله "العليم" في 32 موضع 
+- و مقروناً به إسم الله "البصير" في 11 موضع
+- و مضاف إلى لفظ "الدعاء" مرتين
+- و مقروناً به إسم الله "قريب" مرة واحدة
+
+https://furqan.co/
