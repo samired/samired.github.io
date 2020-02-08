@@ -3,10 +3,10 @@
 "http://www.w3.org/TR/xhtml1/DTD/xhtml1-strict.dtd">
 <html xmlns="http://www.w3.org/1999/xhtml" lang="en" xml:lang="en">
 <head>
-<!-- 2020-02-08 Sat 22:45 -->
+<!-- 2020-02-08 Sat 23:03 -->
 <meta http-equiv="Content-Type" content="text/html;charset=utf-8" />
 <meta name="viewport" content="width=device-width, initial-scale=1" />
-<title>أرقام و أعداد في القرآن</title>
+<title>Samir's Space</title>
 <meta name="generator" content="Org mode" />
 <style type="text/css">
  <!--/*--><![CDATA[/*><!--*/
@@ -179,7 +179,7 @@
   .org-svg { width: 90%; }
   /*]]>*/-->
 </style>
-<link id="pagestyle" rel="stylesheet" type="text/css" href="../css/worg_style_worg.css"/>
+<link id="pagestyle" rel="stylesheet" type="text/css" href="css/worg_style_worg.css"/>
 <script type="text/javascript">
 /*
 @licstart  The following is the entire license notice for the
@@ -229,46 +229,68 @@ for the JavaScript code in this tag.
 </head>
 <body>
 <div id="content">
-<h1 class="title">أرقام و أعداد في القرآن</h1>
-<dir="rtl" lang="ar">
-<html dir="rtl" lang="ar">
-
+<h1 class="title">Samir's Space
+<br />
+<span class="subtitle">where I write my thoughts</span>
+</h1>
+<div id="table-of-contents">
+<h2>Table of Contents</h2>
+<div id="text-table-of-contents">
+<ul>
+<li><a href="#org843ffb5">Projects:</a></li>
+<li><a href="#orgc5621ef">Articles:</a></li>
+<li><a href="#org134ec86">Currently Reading:</a></li>
+</ul>
+</div>
+</div>
 <script>
 function swapStyle(css){
     document.getElementById('pagestyle').setAttribute('href', css);
 }
 </script>
-  <div style="margin: auto auto;" dir="rtl" lang="ar">
+<div style="margin: auto auto;">
+  <button onclick="swapStyle('css/worg_style_worg.css')">light</button>
+  <button onclick="swapStyle('css/worg-zenburn.css')">dark</button>
   <button onclick="location.href = 'https://samired.github.io/';">home</button>
-  <button onclick="swapStyle('../css/worg_style_worg.css')">light</button>
-  <button onclick="swapStyle('../css/worg-zenburn.css')">dark</button>
- 
+  <button onclick="location.href = 'https://www.linkedin.com/in/samiryusuf';">linkedin</button>
+  <button onclick="location.href = 'https://www.github.com/samired';">github</button>
+  <button onclick="location.href = 'https://www.tradingview.com/u/smir';">trading view</button>
+  <button onclick="location.href = 'https://loadaverage.org/samir';">loadaverage</button>
+  <button onclick="location.href = 'https://twitter.com/Samir0x';">twitter</button>
+
 </div>
 
+<div id="outline-container-org843ffb5" class="outline-2">
+<h2 id="org843ffb5">Projects:</h2>
+<div class="outline-text-2" id="text-org843ffb5">
 <ul class="org-ul">
-<li>ورد إسم الله السميع 46 مرة في القرآن بالإضافة إلى مرة واحدة لم ترد كإسم من أسماء الله</li>
-
-<li>و هذا الموضع الوحيد كان في:</li>
+<li>Pore Pressure Estimation in <b>Python</b> and <b>Clojure</b></li>
+<li>Semi-Algorithmic Trading with <b>J</b></li>
 </ul>
-<p>
-﴿۞ مَثَلُ ٱلۡفَرِیقَیۡنِ كَٱلۡأَعۡمَىٰ وَٱلۡأَصَمِّ وَٱلۡبَصِیرِ وَٱلسَّمِیعِۚ هَلۡ یَسۡتَوِیَانِ مَثَلًاۚ أَفَلَا تَذَكَّرُونَ﴾ [هود ٢٤]
-</p>
+</div>
+</div>
 
+<div id="outline-container-orgc5621ef" class="outline-2">
+<h2 id="orgc5621ef">Articles:</h2>
+<div class="outline-text-2" id="text-orgc5621ef">
 <ul class="org-ul">
-<li>ورد الإسم معرفا في 19 موضع و غير معرف في 25 موضع و مؤكداً بحرف اللام في موضعين</li>
-
-<li>ورد مقروناً به إسم الله "العليم" في 32 موضع</li>
-<li>و مقروناً به إسم الله "البصير" في 11 موضع</li>
-<li>و مضاف إلى لفظ "الدعاء" مرتين</li>
-<li>و مقروناً به إسم الله "قريب" مرة واحدة</li>
+<li><a href="./articles/jwj.html">Journey with J (en)</a></li>
+<li><a href="./articles/quran_numbers.html">Numbers in Quran (ar)</a></li>
 </ul>
+</div>
+</div>
 
-<p>
-<a href="https://furqan.co/">https://furqan.co/</a>
-</p>
+<div id="outline-container-org134ec86" class="outline-2">
+<h2 id="org134ec86">Currently Reading:</h2>
+<div class="outline-text-2" id="text-org134ec86">
+<ul class="org-ul">
+<li>Fardaqan (فردقان) - Yousuf Zidan</li>
+</ul>
+</div>
+</div>
 </div>
 <div id="postamble" class="status">
-<p class="date">Created: 2020-02-08 Sat 22:45</p>
+<p class="date">Created: 2020-02-08 Sat 23:03</p>
 <p class="validation"><a href="http://validator.w3.org/check?uri=referer">Validate</a></p>
 </div>
 </body>

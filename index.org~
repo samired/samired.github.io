@@ -1,7 +1,7 @@
 #+TITLE: Samir's Space
 #+SUBTITLE: where I write my thoughts
 
-#+HTML_HEAD: <link id="pagestyle" rel="stylesheet" type="text/css" href="css/worg_style_worg.css"/>
+#+HTML_HEAD: <link id="pagestyle" rel="stylesheet" type="text/css" href="css/base.css"/>
 
 #+OPTIONS: toc:t num:0 H:4 ^:nil pri:t
 
@@ -20,7 +20,7 @@ function swapStyle(css){
   <button onclick="location.href = 'https://www.linkedin.com/in/samiryusuf';">linkedin</button>
   <button onclick="location.href = 'https://www.github.com/samired';">github</button>
   <button onclick="location.href = 'https://www.tradingview.com/u/smir';">trading view</button>
-  <button onclick="location.href = 'https://loadaverage.org/samir';">loadaverage</button>
+  <button onclick="location.href = 'https://www.loadaverage.org/samir';">loadaverage</button>
   <button onclick="location.href = 'https://twitter.com/Samir0x';">twitter</button>
 
 </div>
@@ -33,8 +33,6 @@ function swapStyle(css){
 ** Articles:
 - [[./articles/jwj.html][Journey with J (en)]]
 - [[./articles/quran_numbers.html][Numbers in Quran (ar)]]
-- [[./articles/geolinks.html][Geo-Links]]
-- [[./articles/sls.html][Surface Logging between Past and Futures]]
  
 ** Currently Reading:
 - Fardaqan (فردقان) - Yousuf Zidan
