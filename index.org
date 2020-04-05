@@ -20,21 +20,19 @@ function swapStyle(css){
   <button onclick="location.href = 'https://www.linkedin.com/in/samiryusuf';">linkedin</button>
   <button onclick="location.href = 'https://www.github.com/samired';">github</button>
   <button onclick="location.href = 'https://www.tradingview.com/u/smir';">trading view</button>
-  <button onclick="location.href = 'https://loadaverage.org/samir';">loadaverage</button>
-  <button onclick="location.href = 'https://twitter.com/Samir0x';">twitter</button>
-
 </div>
 #+END_EXPORT
 
 ** Projects:
 - Pore Pressure Estimation in *Python* and *Clojure*
 - Semi-Algorithmic Trading with *J*
+- Crisis Management, New Protocol 
 
 ** Articles:
+- [[./articles/sls.html][Surface Logging between Past and Futures]]
 - [[./articles/jwj.html][Journey with J (en)]]
 - [[./articles/quran_numbers.html][Numbers in Quran (ar)]]
-- [[./articles/geolinks.html][Geo-Links]]
-- [[./articles/sls.html][Surface Logging between Past and Futures]]
+
  
-** Currently Reading:
-- Fardaqan (فردقان) - Yousuf Zidan
+** Links:
+- [[./articles/geolinks.html][Geo-Links]] 
