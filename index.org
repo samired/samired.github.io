@@ -1,5 +1,4 @@
-#+TITLE: Samir's Space
-#+SUBTITLE: where I write my thoughts
+#+TITLE: Samir's 
 
 #+HTML_HEAD: <link id="pagestyle" rel="stylesheet" type="text/css" href="css/worg_style_worg.css"/>
 
