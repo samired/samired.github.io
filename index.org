@@ -16,22 +16,19 @@ function swapStyle(css){
   <button onclick="swapStyle('css/worg_style_worg.css')">light</button>
   <button onclick="swapStyle('css/worg-zenburn.css')">dark</button>
   <button onclick="location.href = 'https://samired.github.io/';">home</button>
-  <button onclick="location.href = 'https://www.linkedin.com/in/samiryusuf';">linkedin</button>
+  <button onclick="location.href = 'https://www.linkedin.com/in/samired';">linkedin</button>
   <button onclick="location.href = 'https://www.github.com/samired';">github</button>
-  <button onclick="location.href = 'https://www.tradingview.com/u/smir';">trading view</button>
+  <button onclick="location.href = 'https://www.mastodon.social/@smir';">mastodon</button>
+  <button onclick="location.href = 'https://www.pixelfed.social/smir';">pixelfed</button>
 </div>
 #+END_EXPORT
 
 ** Projects:
-- Pore Pressure Estimation in *Python* and *Clojure*
-- Semi-Algorithmic Trading with *J*
+- Pore Pressure Prediction using Machine Learning
 - Crisis Management, New Protocol 
 
 ** Articles:
 - [[./articles/sls.html][Surface Logging between Past and Futures]]
 - [[./articles/jwj.html][Journey with J (en)]]
 - [[./articles/quran_numbers.html][Numbers in Quran (ar)]]
-
- 
-** Links:
 - [[./articles/geolinks.html][Geo-Links]] 
