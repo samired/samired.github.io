@@ -29,6 +29,5 @@ function swapStyle(css){
 
 ** Articles:
 - [[./articles/sls.html][Surface Logging between Past and Futures]]
-- [[./articles/jwj.html][Journey with J (en)]]
 - [[./articles/quran_numbers.html][Numbers in Quran (ar)]]
 - [[./articles/geolinks.html][Geo-Links]] 
