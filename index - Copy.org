@@ -1,0 +1,33 @@
+#+TITLE: Samir's 
+
+#+HTML_HEAD: <link id="pagestyle" rel="stylesheet" type="text/css" href="css/bulma.min.css"/>
+
+#+OPTIONS: toc:t num:0 H:4 ^:nil pri:t
+
+#+MACRO: kbd @@html:<kbd>$1</kbd>@@
+
+#+BEGIN_EXPORT html
+<script>
+function swapStyle(css){
+    document.getElementById('pagestyle').setAttribute('href', css);
+}
+</script>
+<div style="margin: auto auto;">
+  <button onclick="swapStyle('css/worg_style_worg.css')">light</button>
+  <button onclick="swapStyle('css/worg-zenburn.css')">dark</button>
+  <button onclick="location.href = 'https://samired.github.io/';">home</button>
+  <button onclick="location.href = 'https://www.linkedin.com/in/samired';">linkedin</button>
+  <button onclick="location.href = 'https://github.com/samired';">github</button>
+  <button onclick="location.href = 'https://mastodon.social/@smir';">mastodon</button>
+  <button onclick="location.href = 'https://pixelfed.social/smir';">pixelfed</button>
+</div>
+#+END_EXPORT
+
+** Projects:
+- Pore Pressure Prediction using Machine Learning
+- Crisis Management, New Protocol 
+
+** Articles:
+- [[./articles/sls.html][Surface Logging between Past and Futures]]
+- [[./articles/quran_numbers.html][Numbers in Quran (ar)]]
+- [[./articles/geolinks.html][Geo-Links]] 

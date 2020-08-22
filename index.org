@@ -1,33 +1,19 @@
 #+TITLE: Samir's 
 
-#+HTML_HEAD: <link id="pagestyle" rel="stylesheet" type="text/css" href="css/worg_style_worg.css"/>
+#+HTML_HEAD: <link id="pagestyle" rel="stylesheet" type="text/css" href="css/base.css"/>
 
-#+OPTIONS: toc:t num:0 H:4 ^:nil pri:t
+#+OPTIONS: toc:0 num:0
 
 #+MACRO: kbd @@html:<kbd>$1</kbd>@@
 
-#+BEGIN_EXPORT html
-<script>
-function swapStyle(css){
-    document.getElementById('pagestyle').setAttribute('href', css);
-}
-</script>
-<div style="margin: auto auto;">
-  <button onclick="swapStyle('css/worg_style_worg.css')">light</button>
-  <button onclick="swapStyle('css/worg-zenburn.css')">dark</button>
-  <button onclick="location.href = 'https://samired.github.io/';">home</button>
-  <button onclick="location.href = 'https://www.linkedin.com/in/samired';">linkedin</button>
-  <button onclick="location.href = 'https://github.com/samired';">github</button>
-  <button onclick="location.href = 'https://mastodon.social/@smir';">mastodon</button>
-  <button onclick="location.href = 'https://pixelfed.social/smir';">pixelfed</button>
-</div>
-#+END_EXPORT
+** Network:
+- [[https://samired.github.io/][home]]
+- [[https://www.linkedin.com/in/samired][linkedin]]
+- [[https://github.com/samired][github]]
+- [[https://mastodon.social/@smir][mastodon]]
+- [[https://pixelfed.social/smir][pixelfed]]
 
-** Projects:
-- Pore Pressure Prediction using Machine Learning
-- Crisis Management, New Protocol 
-
-** Articles:
-- [[./articles/sls.html][Surface Logging between Past and Futures]]
+** Notes:
 - [[./articles/quran_numbers.html][Numbers in Quran (ar)]]
-- [[./articles/geolinks.html][Geo-Links]] 
+- [[https://mastodon.social/@Smir/104690440691056090][J Program in a Toot (Less than 500 characters)]]
+- [[./articles/sls.html][Surface Logging between Past and Futures]]
