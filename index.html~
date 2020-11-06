@@ -3,7 +3,7 @@
 "http://www.w3.org/TR/xhtml1/DTD/xhtml1-strict.dtd">
 <html xmlns="http://www.w3.org/1999/xhtml" lang="en" xml:lang="en">
 <head>
-<!-- 2020-11-07 س 01:54 -->
+<!-- 2020-11-07 س 01:15 -->
 <meta http-equiv="Content-Type" content="text/html;charset=utf-8" />
 <meta name="viewport" content="width=device-width, initial-scale=1" />
 <title>Samir's <a href="https://samired.github.io/">home</a>  <a href="https://www.linkedin.com/in/samired">linkedin</a>  <a href="https://fosstodon.org/@smir">fosstodon</a></title>
@@ -232,9 +232,9 @@ for the JavaScript code in this tag.
 <div id="content">
 <h1 class="title">Samir's <a href="https://samired.github.io/">home</a>  <a href="https://www.linkedin.com/in/samired">linkedin</a>  <a href="https://fosstodon.org/@smir">fosstodon</a></h1>
 <hr />
-<div id="outline-container-org6ff6e17" class="outline-2">
-<h2 id="org6ff6e17">Read: <a href="https://www.sciencemag.org/careers/2016/03/how-seriously-read-scientific-paper">How to (seriously) read a scientific paper</a></h2>
-<div class="outline-text-2" id="text-org6ff6e17">
+<div id="outline-container-org315d8d8" class="outline-2">
+<h2 id="org315d8d8">Read: <a href="https://www.sciencemag.org/careers/2016/03/how-seriously-read-scientific-paper">How to (seriously) read a scientific paper</a></h2>
+<div class="outline-text-2" id="text-org315d8d8">
 <ul class="org-ul">
 <li>abstracting article (my opinionated summary):
 <ul class="org-ul">
@@ -248,9 +248,9 @@ for the JavaScript code in this tag.
 <hr />
 </div>
 </div>
-<div id="outline-container-org48979f3" class="outline-2">
-<h2 id="org48979f3">Difference btween safety and sustainability:</h2>
-<div class="outline-text-2" id="text-org48979f3">
+<div id="outline-container-orgfdc9d47" class="outline-2">
+<h2 id="orgfdc9d47">Difference btween safety and sustainability:</h2>
+<div class="outline-text-2" id="text-orgfdc9d47">
 <p>
 R. Westrum and P.T.W. Hudson modeled "Safety Ladder" of 5 steps for corporate to reach #safety maturity, applying same model to #sustainability ladder as in figure.
 One difference is that safety will tend to develop its own specific systems, processes, and tools while sustainability will tend to ride on existing processes and borrow proven tools.
@@ -261,9 +261,9 @@ So the question is; will sustainability concepts bring safety (including #health
 <hr />
 </div>
 </div>
-<div id="outline-container-orgc109b76" class="outline-2">
-<h2 id="orgc109b76">COVID-19 in J</h2>
-<div class="outline-text-2" id="text-orgc109b76">
+<div id="outline-container-org2429c4a" class="outline-2">
+<h2 id="org2429c4a">COVID-19 in J</h2>
+<div class="outline-text-2" id="text-org2429c4a">
 <div class="org-src-container">
 <pre class="src src-j"><span style="color: #99968b;">NB. a complete #jlang program in a single notice</span>
 <span style="color: #99968b;">NB. Extract data, filter, plot, and calculate linear regression </span>
@@ -273,7 +273,9 @@ So the question is; will sustainability concepts bring safety (including #health
 <span style="color: #cae682;">treg</span> =: 3 : <span style="color: #95e454;">'((1{((i.#y) lreg y))*(i.#y))+(0{((i.#y) lreg y))'</span>
 <span style="color: #cae682;">col</span> =: 4 : <span style="color: #95e454;">'makenum x { |: y'</span>
 <span style="color: #cae682;">covid</span> =: fixcsv gethttp dquote <span style="color: #95e454;">'https://raw.githubusercontent.com/owid/covid-19-data/master/public/data/owid-covid-data.csv'</span>
-<span style="color: #cae682;">lastndays</span> =: 4 : 0 <span style="color: #95e454;">'|. y {. |. 5 col covid gets x'</span>
+<span style="color: #cae682;">lastndays</span> =: 4 : 0
+  |. y {. |. 5 col covid gets x
+<span style="color: #8ac6f2; font-weight: bold;">)</span>
 plot <span style="color: #95e454;">'USA'</span> lastndays 100
 </pre>
 </div>
@@ -282,7 +284,7 @@ plot <span style="color: #95e454;">'USA'</span> lastndays 100
 </div>
 <div id="postamble" class="status">
 <p class="author">Author: samir</p>
-<p class="date">Created: 2020-11-07 س 01:54</p>
+<p class="date">Created: 2020-11-07 س 01:15</p>
 <p class="validation"><a href="http://validator.w3.org/check?uri=referer">Validate</a></p>
 </div>
 </body>
