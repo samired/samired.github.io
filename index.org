@@ -1,8 +1,8 @@
-#+TITLE: Samir's 
-#+TITLE: [[https://samired.github.io/][home]]  [[https://www.linkedin.com/in/samired][linkedin]]  [[https://fosstodon.org/@smir][fosstodon]]
+#+TITLE: Samir's
 #+HTML_HEAD: <link id="pagestyle" rel="stylesheet" type="text/css" href="css/base.css"/>
 #+OPTIONS: toc:0 num:0
 #+MACRO: kbd @@html:<kbd>$1</kbd>@@
+#+TITLE: [[https://www.linkedin.com/in/samired][linkedin]]
 ---------------------------------------------------- 
 **** Read: [[https://www.sciencemag.org/careers/2016/03/how-seriously-read-scientific-paper][How to (seriously) read a scientific paper]]
 - abstracting article (my opinionated summary):
@@ -11,6 +11,7 @@
  - read conclusion
  - have a look at graphs and plots, understand those
  - read sections clarify what you didn't understand
+[2021-04-07 Wed]
 -----------------------------------------------------  
 **** Difference btween safety and sustainability:
 R. Westrum and P.T.W. Hudson modeled "Safety Ladder" of 5 steps for corporate to reach #safety maturity, applying same model to #sustainability ladder as in figure.

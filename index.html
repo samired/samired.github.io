@@ -3,12 +3,12 @@
 "http://www.w3.org/TR/xhtml1/DTD/xhtml1-strict.dtd">
 <html xmlns="http://www.w3.org/1999/xhtml" lang="en" xml:lang="en">
 <head>
-<!-- 2020-11-07 س 01:54 -->
+<!-- 2021-04-07 Wed 22:19 -->
 <meta http-equiv="Content-Type" content="text/html;charset=utf-8" />
 <meta name="viewport" content="width=device-width, initial-scale=1" />
-<title>Samir's <a href="https://samired.github.io/">home</a>  <a href="https://www.linkedin.com/in/samired">linkedin</a>  <a href="https://fosstodon.org/@smir">fosstodon</a></title>
+<title>Samir's <a href="https://www.linkedin.com/in/samired">linkedin</a></title>
 <meta name="generator" content="Org mode" />
-<meta name="author" content="samir" />
+<meta name="author" content="Samir" />
 <style type="text/css">
  <!--/*--><![CDATA[/*><!--*/
   .title  { text-align: center;
@@ -161,6 +161,19 @@
   .footdef  { margin-bottom: 1em; }
   .figure { padding: 1em; }
   .figure p { text-align: center; }
+  .equation-container {
+    display: table;
+    text-align: center;
+    width: 100%;
+  }
+  .equation {
+    vertical-align: middle;
+  }
+  .equation-label {
+    display: table-cell;
+    text-align: right;
+    vertical-align: middle;
+  }
   .inlinetask {
     padding: 10px;
     border: 2px solid gray;
@@ -186,7 +199,7 @@
 @licstart  The following is the entire license notice for the
 JavaScript code in this tag.
 
-Copyright (C) 2012-2019 Free Software Foundation, Inc.
+Copyright (C) 2012-2020 Free Software Foundation, Inc.
 
 The JavaScript code in this tag is free software: you can
 redistribute it and/or modify it under the terms of the GNU
@@ -230,11 +243,11 @@ for the JavaScript code in this tag.
 </head>
 <body>
 <div id="content">
-<h1 class="title">Samir's <a href="https://samired.github.io/">home</a>  <a href="https://www.linkedin.com/in/samired">linkedin</a>  <a href="https://fosstodon.org/@smir">fosstodon</a></h1>
+<h1 class="title">Samir's <a href="https://www.linkedin.com/in/samired">linkedin</a></h1>
 <hr />
-<div id="outline-container-org6ff6e17" class="outline-2">
-<h2 id="org6ff6e17">Read: <a href="https://www.sciencemag.org/careers/2016/03/how-seriously-read-scientific-paper">How to (seriously) read a scientific paper</a></h2>
-<div class="outline-text-2" id="text-org6ff6e17">
+<div id="outline-container-org5aa14ec" class="outline-2">
+<h2 id="org5aa14ec">Read: <a href="https://www.sciencemag.org/careers/2016/03/how-seriously-read-scientific-paper">How to (seriously) read a scientific paper</a></h2>
+<div class="outline-text-2" id="text-org5aa14ec">
 <ul class="org-ul">
 <li>abstracting article (my opinionated summary):
 <ul class="org-ul">
@@ -245,12 +258,15 @@ for the JavaScript code in this tag.
 <li>read sections clarify what you didn't understand</li>
 </ul></li>
 </ul>
+<p>
+<span class="timestamp-wrapper"><span class="timestamp">[2021-04-07 Wed]</span></span>
+</p>
 <hr />
 </div>
 </div>
-<div id="outline-container-org48979f3" class="outline-2">
-<h2 id="org48979f3">Difference btween safety and sustainability:</h2>
-<div class="outline-text-2" id="text-org48979f3">
+<div id="outline-container-org37c0951" class="outline-2">
+<h2 id="org37c0951">Difference btween safety and sustainability:</h2>
+<div class="outline-text-2" id="text-org37c0951">
 <p>
 R. Westrum and P.T.W. Hudson modeled "Safety Ladder" of 5 steps for corporate to reach #safety maturity, applying same model to #sustainability ladder as in figure.
 One difference is that safety will tend to develop its own specific systems, processes, and tools while sustainability will tend to ride on existing processes and borrow proven tools.
@@ -261,28 +277,28 @@ So the question is; will sustainability concepts bring safety (including #health
 <hr />
 </div>
 </div>
-<div id="outline-container-orgc109b76" class="outline-2">
-<h2 id="orgc109b76">COVID-19 in J</h2>
-<div class="outline-text-2" id="text-orgc109b76">
+<div id="outline-container-org1ab799b" class="outline-2">
+<h2 id="org1ab799b">COVID-19 in J</h2>
+<div class="outline-text-2" id="text-org1ab799b">
 <div class="org-src-container">
-<pre class="src src-j"><span style="color: #99968b;">NB. a complete #jlang program in a single notice</span>
-<span style="color: #99968b;">NB. Extract data, filter, plot, and calculate linear regression </span>
-<span style="color: #e5786d;">require</span> <span style="color: #95e454;">'tables/csv web/gethttp plot'</span>
-<span style="color: #cae682;">gets</span> =: 4 : <span style="color: #95e454;">'(I. (&lt;y) E. 0{|:x){x'</span>
-<span style="color: #cae682;">lreg</span> =: 4 : <span style="color: #95e454;">'y %. 1 ,. x'</span>
-<span style="color: #cae682;">treg</span> =: 3 : <span style="color: #95e454;">'((1{((i.#y) lreg y))*(i.#y))+(0{((i.#y) lreg y))'</span>
-<span style="color: #cae682;">col</span> =: 4 : <span style="color: #95e454;">'makenum x { |: y'</span>
-<span style="color: #cae682;">covid</span> =: fixcsv gethttp dquote <span style="color: #95e454;">'https://raw.githubusercontent.com/owid/covid-19-data/master/public/data/owid-covid-data.csv'</span>
-<span style="color: #cae682;">lastndays</span> =: 4 : 0 <span style="color: #95e454;">'|. y {. |. 5 col covid gets x'</span>
-plot <span style="color: #95e454;">'USA'</span> lastndays 100
+<pre class="src src-j">NB. a complete #jlang program in a single notice
+NB. Extract data, filter, plot, and calculate linear regression 
+require 'tables/csv web/gethttp plot'
+gets =: 4 : '(I. (&lt;y) E. 0{|:x){x'
+lreg =: 4 : 'y %. 1 ,. x'
+treg =: 3 : '((1{((i.#y) lreg y))*(i.#y))+(0{((i.#y) lreg y))'
+col =: 4 : 'makenum x { |: y'
+covid =: fixcsv gethttp dquote 'https://raw.githubusercontent.com/owid/covid-19-data/master/public/data/owid-covid-data.csv'
+lastndays =: 4 : 0 '|. y {. |. 5 col covid gets x'
+plot 'USA' lastndays 100
 </pre>
 </div>
 </div>
 </div>
 </div>
 <div id="postamble" class="status">
-<p class="author">Author: samir</p>
-<p class="date">Created: 2020-11-07 س 01:54</p>
+<p class="author">Author: Samir</p>
+<p class="date">Created: 2021-04-07 Wed 22:19</p>
 <p class="validation"><a href="http://validator.w3.org/check?uri=referer">Validate</a></p>
 </div>
 </body>
