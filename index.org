@@ -1,9 +1,17 @@
 #+TITLE: Samir's
-#+HTML_HEAD: <link id="pagestyle" rel="stylesheet" type="text/css" href="css/base.css"/>
+#+HTML_HEAD: <link id="pagestyle" rel="stylesheet" type="text/css" href="css/worg-classic.css"/>
 #+OPTIONS: toc:0 num:0
 #+MACRO: kbd @@html:<kbd>$1</kbd>@@
 #+TITLE: [[https://www.linkedin.com/in/samired][linkedin]]
----------------------------------------------------- 
+
+**** The Worst Golfer
+The worst golfer in town came in last in the club tournament. Actually, that’s not true. The worst golfer didn’t even enter.
+Well, that’s not true either. The worst golfer doesn’t even play.
+
+Sith Godin
+
+[2022-06-04 Sat]
+ 
 **** Read: [[https://www.sciencemag.org/careers/2016/03/how-seriously-read-scientific-paper][How to (seriously) read a scientific paper]]
 - abstracting article (my opinionated summary):
  - select papers benefit your knowledge
@@ -12,14 +20,14 @@
  - have a look at graphs and plots, understand those
  - read sections clarify what you didn't understand
 [2021-04-07 Wed]
------------------------------------------------------  
+  
 **** Difference btween safety and sustainability:
 R. Westrum and P.T.W. Hudson modeled "Safety Ladder" of 5 steps for corporate to reach #safety maturity, applying same model to #sustainability ladder as in figure.
 One difference is that safety will tend to develop its own specific systems, processes, and tools while sustainability will tend to ride on existing processes and borrow proven tools.
 So the question is; will sustainability concepts bring safety (including #health and #environment) below its wing?
 [[https://pubs.spe.org/en/jpt/jpt-article-detail/?art=6382]]
 [[file:img/safety.jpeg]]
------------------------------------------------------  
+  
 **** COVID-19 in J
 #+BEGIN_SRC j
 NB. a complete #jlang program in a single notice

@@ -230,10 +230,10 @@ for the JavaScript code in this tag.
 <body>
 <div id="content">
 <h1 class="title">Samir's <a href="https://www.linkedin.com/in/samired">linkedin</a></h1>
-
-<div id="outline-container-org7a952f4" class="outline-2">
-<h2 id="org7a952f4">The Worst Golfer</h2>
-<div class="outline-text-2" id="text-org7a952f4">
+<hr />
+<div id="outline-container-org8d0d84d" class="outline-2">
+<h2 id="org8d0d84d">The Worst Golfer</h2>
+<div class="outline-text-2" id="text-org8d0d84d">
 <p>
 The worst golfer in town came in last in the club tournament. Actually, that’s not true. The worst golfer didn’t even enter.
 Well, that’s not true either. The worst golfer doesn’t even play.
@@ -246,12 +246,12 @@ Sith Godin
 <p>
 <span class="timestamp-wrapper"><span class="timestamp">[2022-06-04 Sat]</span></span>
 </p>
+<hr />
 </div>
 </div>
-
-<div id="outline-container-orgd55f521" class="outline-2">
-<h2 id="orgd55f521">Read: <a href="https://www.sciencemag.org/careers/2016/03/how-seriously-read-scientific-paper">How to (seriously) read a scientific paper</a></h2>
-<div class="outline-text-2" id="text-orgd55f521">
+<div id="outline-container-org7c162cd" class="outline-2">
+<h2 id="org7c162cd">Read: <a href="https://www.sciencemag.org/careers/2016/03/how-seriously-read-scientific-paper">How to (seriously) read a scientific paper</a></h2>
+<div class="outline-text-2" id="text-org7c162cd">
 <ul class="org-ul">
 <li>abstracting article (my opinionated summary):
 <ul class="org-ul">
@@ -265,12 +265,12 @@ Sith Godin
 <p>
 <span class="timestamp-wrapper"><span class="timestamp">[2021-04-07 Wed]</span></span>
 </p>
+<hr />
 </div>
 </div>
-
-<div id="outline-container-orga3b371e" class="outline-2">
-<h2 id="orga3b371e">Difference btween safety and sustainability:</h2>
-<div class="outline-text-2" id="text-orga3b371e">
+<div id="outline-container-orgc55e055" class="outline-2">
+<h2 id="orgc55e055">Difference btween safety and sustainability:</h2>
+<div class="outline-text-2" id="text-orgc55e055">
 <p>
 R. Westrum and P.T.W. Hudson modeled "Safety Ladder" of 5 steps for corporate to reach #safety maturity, applying same model to #sustainability ladder as in figure.
 One difference is that safety will tend to develop its own specific systems, processes, and tools while sustainability will tend to ride on existing processes and borrow proven tools.
@@ -278,12 +278,12 @@ So the question is; will sustainability concepts bring safety (including #health
 <a href="https://pubs.spe.org/en/jpt/jpt-article-detail/?art=6382">https://pubs.spe.org/en/jpt/jpt-article-detail/?art=6382</a>
 <img src="img/safety.jpeg" alt="safety.jpeg" />
 </p>
+<hr />
 </div>
 </div>
-
-<div id="outline-container-org6fa5f80" class="outline-2">
-<h2 id="org6fa5f80">COVID-19 in J</h2>
-<div class="outline-text-2" id="text-org6fa5f80">
+<div id="outline-container-org3aa5410" class="outline-2">
+<h2 id="org3aa5410">COVID-19 in J</h2>
+<div class="outline-text-2" id="text-org3aa5410">
 <div class="org-src-container">
 <pre class="src src-j"><span style="color: #8D8D84; font-style: italic;">NB. a complete #jlang program in a single notice</span>
 <span style="color: #8D8D84; font-style: italic;">NB. Extract data, filter, plot, and calculate linear regression </span>
