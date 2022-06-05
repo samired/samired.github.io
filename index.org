@@ -3,6 +3,12 @@
 #+OPTIONS: toc:0 num:0
 #+MACRO: kbd @@html:<kbd>$1</kbd>@@
 #+TITLE: [[https://www.linkedin.com/in/samired][linkedin]]
+**** Wisdom 
+
+"Nothing is enough for the man to whom enough is too little."
+Epictus
+
+[2022-06-05 Sun]
 
 **** The Worst Golfer
 The worst golfer in town came in last in the club tournament. Actually, that’s not true. The worst golfer didn’t even enter.
