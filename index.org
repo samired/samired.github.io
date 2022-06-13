@@ -3,6 +3,12 @@
 #+OPTIONS: toc:0 num:0
 #+MACRO: kbd @@html:<kbd>$1</kbd>@@
 #+TITLE: [[https://www.linkedin.com/in/samired][linkedin]]
+**** Zohd
+
+"قليل الدّنيا يشغل عن كثير الآخرة، وإنّ كثيرها ينسيك قليلها، وإن كنت تطلب من الدّنيا ما يكفيك فأدنى ما فيها يجزيك، وإن كنت لا يغنيك ما يكفيك فليس فيها شيء يغنيك"
+
+(التّابعي أبو مسلم الخولاني؛ حلية الأولياء)
+
 **** Wisdom 
 
 "Nothing is enough for the man to whom enough is too little."
